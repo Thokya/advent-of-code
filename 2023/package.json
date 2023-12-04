@@ -1,0 +1,16 @@
+{
+  "name": "2023",
+  "version": "1.0.0",
+  "description": "Advent of Code 2023",
+  "main": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aoc",
+    "advent-of-code"
+  ],
+  "author": "Abhishek More",
+  "license": "ISC"
+}
